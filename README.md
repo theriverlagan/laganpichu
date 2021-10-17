@@ -6,20 +6,18 @@
 
 ### Powercord & Vizality
 
-```sh
-git clone https://github.com/NYRI4/LilyPichu
+=
 ```
 
 ### BetterDiscord
 
-Go [here](https://betterdiscord.app/theme/LilyPichu) and save the file into your theme folder
 
 ## 🖌️ Customization
 Go into your theme folder and open :
 
-`lilypichu.theme.css` for BetterDiscord
+`laganpichu.theme.css` for BetterDiscord
 
-`variables.scss` for Powercord/Vizality
+`variableslagan.scss` for Powercord/Vizality
 
 ## 🖼️ More preview
 | Status picker | User modal | Aliucord |
