@@ -6,7 +6,7 @@
 * @version 1.1
 * @donate https://ko-fi.com/nyria
 */
-@import url("https://github.com/theriverlagan/discord2/blob/main/main.css");
+@import url("https://theriverlagan.github.io/laganpichu/main.css");
 
 :root {
 
@@ -18,7 +18,7 @@
 /* Background (if you want an image replace it by : 
 
 --background-tertiary-alt: url("image-link"); without that => */
---background-tertiary-alt: #FFC7D4;
+--background-tertiary-alt: #3b1d24;
 
 /* Border-radius for the whole theme */
 --border-radius: 20px;
