@@ -1803,8 +1803,8 @@
   position: absolute;
   bottom: 100px;
   left: 50px;
-  width: 200px;
-  height: 200px;
+  width: 800px;
+  height: 800px;
   background: url("https://i.imgur.com/dCd49s0.gif") center/80% no-repeat;
 }
 :root #permissions-modal-wrapper #permissions-modal {
