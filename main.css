@@ -396,10 +396,10 @@
   border-radius: var(--border-radius);
 }
 :root .container-3ayLPN .option-96V44q:after {
-  background: linear-gradient(90deg, rgba(54, 57, 63, 0), var(--background-secondary-alt) 80%);
+  background: linear-gradient(90deg, rgba(59, 29, 36, 1), var(--background-secondary-alt) 80%);
 }
 :root .container-3ayLPN .option-96V44q.selected-rZcOL-:after {
-  background: linear-gradient(90deg, rgba(54, 57, 63, 0), var(--background-secondary) 80%);
+  background: linear-gradient(90deg, rgba(73, 41, 47, 1), var(--background-secondary) 80%);
 }
 :root .container-3ayLPN .option-96V44q .answer-1n6g43 {
   color: var(--interactive-muted);
